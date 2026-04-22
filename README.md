@@ -100,3 +100,19 @@ Know a zero-dependency skill? PRs welcome!
 ---
 
 **License:** CC0-1.0 (Public Domain)
+
+---
+
+## 🎨 Content & Marketing
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [Brand Voice](https://github.com/aptratcn/skill-brand-voice) ⭐ | 8-stage brand therapy, tone calibration, content templates. | [@aptratcn](https://github.com/aptratcn) |
+| [Social Growth](https://github.com/aptratcn/skill-social-growth) ⭐ | 8 platforms, viral mechanics, 0→10K growth playbook. | [@aptratcn](https://github.com/aptratcn) |
+| [Prompt Engineer](https://github.com/aptratcn/skill-prompt-engineer) ⭐ | 12 patterns, 50+ templates, A/B testing framework. | [@aptratcn](https://github.com/aptratcn) |
+
+---
+
+<p align="center">
+  <b>⭐ If this list helped you, give it a star!</b>
+</p>
