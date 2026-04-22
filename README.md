@@ -116,3 +116,17 @@ Know a zero-dependency skill? PRs welcome!
 <p align="center">
   <b>⭐ If this list helped you, give it a star!</b>
 </p>
+
+## 📝 Documentation
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [Doc Architect](https://github.com/aptratcn/skill-doc-architect) ⭐ | Documentation system design. README engineering, API docs, ADRs. | [@aptratcn](https://github.com/aptratcn) |
+| [Meeting Flow](https://github.com/aptratcn/skill-meeting-flow) ⭐ | End-to-end meeting intelligence. Notes, action items, decision log. | [@aptratcn](https://github.com/aptratcn) |
+
+## 🔄 Migration & Upgrade
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [Migration Guide](https://github.com/aptratcn/skill-migration-guide) ⭐ | 7 technology playbooks. Breaking change detection, rollback planning. | [@aptratcn](https://github.com/aptratcn) |
+
