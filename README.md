@@ -16,6 +16,9 @@
   <a href="#️-development">Development</a> •
   <a href="#-security">Security</a> •
   <a href="#-analysis--research">Analysis</a> •
+  <a href="#-mcp--integration">MCP</a> •
+  <a href="#-enterprise--team">Enterprise</a> •
+  <a href="#-self-improvement">Self-Improvement</a> •
   <a href="#-contributing">Contributing</a>
 </p>
 
@@ -80,6 +83,24 @@
 | [Release Cop](https://github.com/aptratcn/skill-release-cop) ⭐ | Automatic changelogs from git history. Semantic versioning. | [@aptratcn](https://github.com/aptratcn) |
 
 ---
+
+## 🔌 MCP & Integration
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [MCP Builder](https://github.com/aptratcn/skill-mcp-builder) ⭐ | Build production-ready MCP servers. TypeScript + Python. | [@aptratcn](https://github.com/aptratcn) |
+
+## 🏢 Enterprise & Team
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [Workspace Agent Builder](https://github.com/aptratcn/skill-workspace-agent) | Team-oriented AI agents. Shared context, approval gates. | [@aptratcn](https://github.com/aptratcn) |
+
+## ⚒️ Self-Improvement
+
+| Skill | Description | Author |
+|-------|-------------|--------|
+| [Agent SkillForge](https://github.com/aptratcn/skill-agent-skillforge) | Crystallize experience into skills. Build personal skill trees. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 🤝 Contributing
 
