@@ -49,6 +49,8 @@
 |-------|-------------|--------|
 | [Prompt Injection Guard](https://github.com/aptratcn/prompt-guard) ⭐ | Detect and resist prompt injection attacks. | [@aptratcn](https://github.com/aptratcn) |
 | [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) | Prevent AI-generated code incidents. Comprehension gates. | [@aptratcn](https://github.com/aptratcn) |
+| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) ⭐ | Audit MCP servers: data exfil, injection, escalation. | [@aptratcn](https://github.com/aptratcn) |
+| [Git Secret Sweep](https://github.com/aptratcn/skill-git-secret-sweep) | Scan repos for leaked secrets, API keys, tokens. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 📊 Analysis & Research
 
@@ -89,6 +91,7 @@
 | Skill | Description | Author |
 |-------|-------------|--------|
 | [MCP Builder](https://github.com/aptratcn/skill-mcp-builder) ⭐ | Build production-ready MCP servers. TypeScript + Python. | [@aptratcn](https://github.com/aptratcn) |
+| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) | Audit MCP servers for security. 6-dimension checklist. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 🏢 Enterprise & Team
 
