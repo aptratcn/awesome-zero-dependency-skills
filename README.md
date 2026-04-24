@@ -47,16 +47,17 @@
 
 | Skill | Description | Author |
 |-------|-------------|--------|
-| [Prompt Injection Guard](https://github.com/aptratcn/prompt-guard) ⭐ | Detect and resist prompt injection attacks. | [@aptratcn](https://github.com/aptratcn) |
-| [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) | Prevent AI-generated code incidents. Comprehension gates. | [@aptratcn](https://github.com/aptratcn) |
-| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) ⭐ | Audit MCP servers: data exfil, injection, escalation. | [@aptratcn](https://github.com/aptratcn) |
-| [Git Secret Sweep](https://github.com/aptratcn/skill-git-secret-sweep) | Scan repos for leaked secrets, API keys, tokens. | [@aptratcn](https://github.com/aptratcn) |
+| [Prompt Injection Guard](https://github.com/aptratcn/prompt-guard) ⭐ | 4-layer prompt injection detection. 50+ attack patterns. | [@aptratcn](https://github.com/aptratcn) |
+| [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) ⭐ | Prevent the 23.5% incident spike. Comprehension gates. | [@aptratcn](https://github.com/aptratcn) |
+| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) ⭐ | 5-dim audit, 0-100 risk scoring. Safe/unsafe patterns. | [@aptratcn](https://github.com/aptratcn) |
+| [Dependency Guard](https://github.com/aptratcn/skill-dependency-guard) | Pre-install supply chain scanner. Typosquatting, CVEs. | [@aptratcn](https://github.com/aptratcn) |
+| [Git Secret Sweep](https://github.com/aptratcn/skill-git-secret-sweep) ⭐ | Scan repos for leaked secrets, API keys, tokens. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 📊 Analysis & Research
 
 | Skill | Description | Author |
 |-------|-------------|--------|
-| [Token Budget Guard](https://github.com/aptratcn/token-budget-guard) ⭐ | 99% token savings through progressive disclosure. | [@aptratcn](https://github.com/aptratcn) |
+| [Token Budget Guard](https://github.com/aptratcn/token-budget-guard) ⭐ | 99% token savings. Progressive disclosure + compression. | [@aptratcn](https://github.com/aptratcn) |
 | [Skill Health Monitor](https://github.com/aptratcn/skill-health-monitor) | Audit and score skill collections with 5-dimension system. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 🧠 Memory & Context
@@ -70,7 +71,7 @@
 | Skill | Description | Author |
 |-------|-------------|--------|
 | [GitOps Flow](https://github.com/aptratcn/skill-gitops-flow) ⭐ | Blue-green, canary deployments. CI/CD templates. Rollback procedures. | [@aptratcn](https://github.com/aptratcn) |
-| [Error Recovery System](https://github.com/aptratcn/skill-error-recovery) | 4R framework: Recognize → Recover → Report → Reflect. | [@aptratcn](https://github.com/aptratcn) |
+| [Error Recovery](https://github.com/aptratcn/skill-error-recovery) ⭐ | 4R: Recognize → Rescue → Report → Remember. CLI diagnostic tool. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 📈 Data Visualization
 
