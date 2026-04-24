@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/aptratcn/awesome-zero-dependency-skills/stargazers"><img src="https://img.shields.io/github/stars/aptratcn/awesome-zero-dependency-skills?style=flat-square&logo=github&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/aptratcn/awesome-zero-dependency-skills/network/members"><img src="https://img.shields.io/github/forks/aptratcn/awesome-zero-dependency-skills?style=flat-square" alt="Forks"></a>
-  <a href="https://github.com/aptratcn/awesome-zero-dependency-skills/issues"><img src="https://img.shields.io/github/issues/aptratcn/awesome-zero-dependency-skills?style=flat-square" alt="Issues"></a>
 </p>
 
 <p align="center">
@@ -16,10 +14,8 @@
   <a href="#️-development">Development</a> •
   <a href="#-security">Security</a> •
   <a href="#-analysis--research">Analysis</a> •
-  <a href="#-mcp--integration">MCP</a> •
-  <a href="#-enterprise--team">Enterprise</a> •
-  <a href="#-self-improvement">Self-Improvement</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="#-context--memory">Context</a> •
+  <a href="#-devops">DevOps</a>
 </p>
 
 ---
@@ -28,130 +24,75 @@
 
 ## 🚀 Productivity
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [EVR Framework](https://github.com/aptratcn/evr-framework) ⭐ | Execute-Verify-Report pattern. Every result needs evidence. | [@aptratcn](https://github.com/aptratcn) |
-| [Trend Harvester](https://github.com/aptratcn/trend-harvester) ⭐ | Multi-platform trend research (Reddit, HN, X, YouTube). | [@aptratcn](https://github.com/aptratcn) |
-| [Xiaobai Workflow Enforcer](https://github.com/aptratcn/xiaobai-workflow-enforcer) | Mandatory workflows: design before code, test before implement. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [EVR Framework](https://github.com/aptratcn/evr-framework) ⭐ | Execute-Verify-Report pattern. Every result needs evidence. |
+| [Trend Harvester](https://github.com/aptratcn/trend-harvester) | Multi-platform trend research (Reddit, HN, X, YouTube). |
+| [Xiaobai Workflow Enforcer](https://github.com/aptratcn/xiaobai-workflow-enforcer) | Mandatory workflows: design before code, test before implement. |
 
 ## 🛠️ Development
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Systematic Debugging](https://github.com/aptratcn/systematic-debugging) ⭐ | 4-phase root cause: Reproduce → Isolate → Hypothesis → Verify. | [@aptratcn](https://github.com/aptratcn) |
-| [Cross-Tool Skill Sync](https://github.com/aptratcn/cross-tool-skill-sync) | Write once, deploy to Claude Code, Cursor, Copilot, Windsurf. | [@aptratcn](https://github.com/aptratcn) |
-| [Skill Quality Evaluator](https://github.com/aptratcn/skill-quality-eval) | Assess and score AI agent skill output quality. | [@aptratcn](https://github.com/aptratcn) |
-| [Skill Model Router](https://github.com/aptratcn/skill-model-router) ⭐ | Route tasks to the right model. Slash costs up to 70%. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [Systematic Debugging](https://github.com/aptratcn/systematic-debugging) ⭐ | 4-phase root cause: Observe → Hypothesize → Verify → Fix. |
+| [Cross-Tool Skill Sync](https://github.com/aptratcn/cross-tool-skill-sync) | Write once, deploy to Claude Code, Cursor, Copilot, Windsurf. |
+| [Skill Model Router](https://github.com/aptratcn/skill-model-router) ⭐ | Route tasks to the right model. Slash costs up to 70%. |
+| [MCP Builder](https://github.com/aptratcn/skill-mcp-builder) | Build MCP servers for any AI agent. TS/Python patterns. |
 
 ## 🔒 Security
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Prompt Injection Guard](https://github.com/aptratcn/prompt-guard) ⭐ | 4-layer prompt injection detection. 50+ attack patterns. | [@aptratcn](https://github.com/aptratcn) |
-| [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) ⭐ | Prevent the 23.5% incident spike. Comprehension gates. | [@aptratcn](https://github.com/aptratcn) |
-| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) ⭐ | 5-dim audit, 0-100 risk scoring. Safe/unsafe patterns. | [@aptratcn](https://github.com/aptratcn) |
-| [Dependency Guard](https://github.com/aptratcn/skill-dependency-guard) | Pre-install supply chain scanner. Typosquatting, CVEs. | [@aptratcn](https://github.com/aptratcn) |
-| [Git Secret Sweep](https://github.com/aptratcn/skill-git-secret-sweep) ⭐ | Scan repos for leaked secrets, API keys, tokens. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [Prompt Injection Guard](https://github.com/aptratcn/prompt-guard) ⭐ | 4-layer prompt injection detection. 50+ attack patterns. |
+| [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) ⭐ | Prevent the 23.5% incident spike. Comprehension gates. |
+| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) ⭐ | 6-dim MCP server audit, 0-100 risk scoring. |
+| [Dependency Guard](https://github.com/aptratcn/skill-dependency-guard) | Pre-install supply chain scanner. Typosquatting, CVEs. |
+| [Git Secret Sweep](https://github.com/aptratcn/skill-git-secret-sweep) ⭐ | Scan repos for leaked secrets, API keys, tokens. |
+| [LLM Data Sanitizer](https://github.com/aptratcn/skill-llm-sanitizer) 🆕 | Strip PII, secrets, credentials before sending to LLMs. |
 
 ## 📊 Analysis & Research
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Token Budget Guard](https://github.com/aptratcn/token-budget-guard) ⭐ | 99% token savings. Progressive disclosure + compression. | [@aptratcn](https://github.com/aptratcn) |
-| [Skill Health Monitor](https://github.com/aptratcn/skill-health-monitor) | Audit and score skill collections with 5-dimension system. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [Token Budget Guard](https://github.com/aptratcn/token-budget-guard) ⭐ | 99% token savings. Progressive disclosure + compression. |
+| [Skill Health Monitor](https://github.com/aptratcn/skill-health-monitor) | Audit and score skill collections with 5-dimension system. |
 
-## 🧠 Memory & Context
+## 🧠 Context & Memory
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Session Context Bridge](https://github.com/aptratcn/session-context-bridge) ⭐ | Cross-session persistence with markdown. Zero dependencies. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [Session Context Bridge](https://github.com/aptratcn/session-context-bridge) ⭐ | Cross-session persistence with markdown. Zero dependencies. |
+| [Context Doctor](https://github.com/aptratcn/skill-context-doctor) 🆕 | Diagnose context bloat. Token cost estimation + optimization. |
 
-## ⚙️ DevOps & Infrastructure
+## ⚙️ DevOps
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [GitOps Flow](https://github.com/aptratcn/skill-gitops-flow) ⭐ | Blue-green, canary deployments. CI/CD templates. Rollback procedures. | [@aptratcn](https://github.com/aptratcn) |
-| [Error Recovery](https://github.com/aptratcn/skill-error-recovery) ⭐ | 4R: Recognize → Rescue → Report → Remember. CLI diagnostic tool. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [GitOps Flow](https://github.com/aptratcn/skill-gitops-flow) ⭐ | Blue-green, canary deployments. CI/CD templates. |
+| [Error Recovery](https://github.com/aptratcn/skill-error-recovery) ⭐ | 4R: Recognize → Rescue → Report → Remember. |
 
 ## 📈 Data Visualization
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Markdown Viz](https://github.com/aptratcn/skill-markdown-viz) ⭐ | Bar charts, sparklines, trees, timelines — pure ASCII/Unicode. Works in any terminal. | [@aptratcn](https://github.com/aptratcn) |
-
-## 📝 Release Management
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Release Cop](https://github.com/aptratcn/skill-release-cop) ⭐ | Automatic changelogs from git history. Semantic versioning. | [@aptratcn](https://github.com/aptratcn) |
+| Skill | Description |
+|-------|-------------|
+| [Markdown Viz](https://github.com/aptratcn/skill-markdown-viz) ⭐ | Bar charts, sparklines, trees, timelines — pure ASCII/Unicode. |
 
 ---
-
-## 🔌 MCP & Integration
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [MCP Builder](https://github.com/aptratcn/skill-mcp-builder) ⭐ | Build production-ready MCP servers. TypeScript + Python. | [@aptratcn](https://github.com/aptratcn) |
-| [MCP Security Audit](https://github.com/aptratcn/skill-mcp-security-audit) | Audit MCP servers for security. 6-dimension checklist. | [@aptratcn](https://github.com/aptratcn) |
-
-## 🏢 Enterprise & Team
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Workspace Agent Builder](https://github.com/aptratcn/skill-workspace-agent) | Team-oriented AI agents. Shared context, approval gates. | [@aptratcn](https://github.com/aptratcn) |
-
-## ⚒️ Self-Improvement
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Agent SkillForge](https://github.com/aptratcn/skill-agent-skillforge) | Crystallize experience into skills. Build personal skill trees. | [@aptratcn](https://github.com/aptratcn) |
 
 ## 🤝 Contributing
 
-Know a zero-dependency skill? PRs welcome!
+Found a zero-dependency skill that should be here? Open a PR!
 
 **Criteria:**
-- Pure markdown (`SKILL.md`)
-- No external dependencies (npm, pip, cargo, etc.)
-- Works with any agent framework
-- MIT or permissive license
+1. Pure markdown skill (SKILL.md)
+2. Zero runtime dependencies
+3. Works with any agent framework
+4. Solves a real pain point
 
 ---
 
-<p align="center">
-  <b>Found this useful? Give it a ⭐ to help others discover it!</b>
-</p>
+## 📜 License
 
----
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**License:** CC0-1.0 (Public Domain)
-
----
-
-## 🎨 Content & Marketing
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Brand Voice](https://github.com/aptratcn/skill-brand-voice) ⭐ | 8-stage brand therapy, tone calibration, content templates. | [@aptratcn](https://github.com/aptratcn) |
-| [Social Growth](https://github.com/aptratcn/skill-social-growth) ⭐ | 8 platforms, viral mechanics, 0→10K growth playbook. | [@aptratcn](https://github.com/aptratcn) |
-| [Prompt Engineer](https://github.com/aptratcn/skill-prompt-engineer) ⭐ | 12 patterns, 50+ templates, A/B testing framework. | [@aptratcn](https://github.com/aptratcn) |
-
----
-
-<p align="center">
-  <b>⭐ If this list helped you, give it a star!</b>
-</p>
-
-## 📝 Documentation
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Doc Architect](https://github.com/aptratcn/skill-doc-architect) ⭐ | Documentation system design. README engineering, API docs, ADRs. | [@aptratcn](https://github.com/aptratcn) |
-| [Meeting Flow](https://github.com/aptratcn/skill-meeting-flow) ⭐ | End-to-end meeting intelligence. Notes, action items, decision log. | [@aptratcn](https://github.com/aptratcn) |
-
-## 🔄 Migration & Upgrade
-
-| Skill | Description | Author |
-|-------|-------------|--------|
-| [Migration Guide](https://github.com/aptratcn/skill-migration-guide) ⭐ | 7 technology playbooks. Breaking change detection, rollback planning. | [@aptratcn](https://github.com/aptratcn) |
-
+To the extent possible under law, the contributors have waived all copyright and related rights.
